@@ -19,6 +19,6 @@ After guessing the users number, it will show how many rounds/iterations it took
 ## Features
 
 - Number input & Button styling
-- UI design 
+- Responsive UI design (Portrait & Landscape)
 - Random Number generator
 - Game Logic
